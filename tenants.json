@@ -1,0 +1,23 @@
+{
+    "admin": {
+        "name": "FleetVision Master",
+        "logo_text": "FleetVision",
+        "primary_color": "#3b82f6", 
+        "secondary_color": "#111827",
+        "branches": ["Matriz", "Servidor 1", "Servidor 2"]
+    },
+    "logistica-norte": {
+        "name": "Logística Norte",
+        "logo_text": "LOGNorte",
+        "primary_color": "#eab308",
+        "secondary_color": "#422006",
+        "branches": ["CD Manaus", "CD Belém", "Porto Velho"]
+    },
+    "rapidex": {
+        "name": "Rapidex Entregas",
+        "logo_text": "RAPIDEX",
+        "primary_color": "#ef4444",
+        "secondary_color": "#7f1d1d",
+        "branches": ["São Paulo", "Rio de Janeiro"]
+    }
+}
